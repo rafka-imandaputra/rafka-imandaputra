@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **about back-end development with Node.js**
 
-- Fun fact **let's sing the '90 minuten lang' chants** together!
+**Let's brew the coffee together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
