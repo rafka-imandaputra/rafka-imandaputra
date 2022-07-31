@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **about back-end development with Node.js**
 
-**Let's brew the coffee together!**
+**Let's brew the coffee together! **
 
 <h4 align="left">Also available at:</h4>
 <p align="left">
