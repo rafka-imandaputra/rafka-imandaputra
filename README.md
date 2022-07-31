@@ -20,9 +20,9 @@
 
 **Let's brew the coffee together!**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Also available at:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/rafka-imanda-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafka-imanda-putra" height="30" width="40" /></a>
-<a href="https://kaggle.com/rafkaip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafkaip" height="30" width="40" /></a>
-<a href="https://instagram.com/raff_imanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raff_imanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafka-imanda-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafka-imanda-putra" height="22" width="30" /></a>
+<a href="https://kaggle.com/rafkaip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafkaip" height="22" width="30" /></a>
+<a href="https://instagram.com/raff_imanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raff_imanda" height="22" width="30" /></a>
 </p>
