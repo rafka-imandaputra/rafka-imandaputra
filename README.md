@@ -6,7 +6,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Rampung Analytic** as Data Analyst Tentor
+- 🏫 12th grade student of **SMKN 4 Bandung** majoring in software engineering
+
+- 🔭 I’m currently working at **Rampung Analytic** as Data Analyst Tentor
 
 - 🤝 Part of ORBIT SMKN 4 Bandung and Sahabat Museum Konperensi Asia Afrika
 
@@ -16,7 +18,7 @@
 
 - 🌱 I’m currently learning **about back-end development with Node.js**
 
-- * Fun fact **let's sing the '90 minuten lang' chants** together!
+- Fun fact **let's sing the '90 minuten lang' chants** together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
