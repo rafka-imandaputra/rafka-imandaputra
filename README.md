@@ -1,4 +1,4 @@
-<h1 align="center">~ Rafka Imanda Putra ~<br>Student | Back-End Dev | Data Analyst</h1>
+<h1 align="center">Rafka Imanda Putra<br>Student | Back-End Dev | Data Analyst</h1>
 <h3 align="center">Available to innovate with my back-end and data analytics capabilities<br>Let's make our great business together!</h3>
 
 <h3 align="left"></h3>
