@@ -1,5 +1,5 @@
-<h1 align="center">Rafka Imanda Putra<br>Student | Back-End Dev | Data Analyst</h1>
-<h3 align="center">Available to innovate with my back-end and data analytics capabilities<br>Let's make our great business together!</h3>
+<h1 align="center">Rafka Imanda Putra<br>Undergraduate Student | Back-End Developer | Data Scientist</h1>
+<h3 align="center">Elevating Business Solutions through Data Science and Software Engineering</h3>
 
 <h3 align="left"></h3>
 <p align="center"> 
@@ -17,7 +17,7 @@
 
 <br>
 
-- 🏫 12th grade student from **SMKN 4 Bandung** majoring in software engineering
+- 🏫 Student from **Bandung State Polytechnic** majoring in Informatics Engineering
 
 - 🔭 I’m currently working at **Rampung Analytic** as Data Analyst Tentor
 
@@ -25,13 +25,9 @@
 
 - 📫 You can contact me at **rafka.0312@gmail.com**
 
-- 👯 I’m looking to collaborate on **our web development project**
-
-- 🌱 I’m currently learning **about back-end development with Golang**
-
 **Let's brew the coffee together!**
 <br><br>
-<h4 align="left">Im also available at:</h4>
+<h4 align="left">Let's Connect:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/rafka-imanda-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafka-imanda-putra" height="22" width="30" /></a>
 <a href="https://kaggle.com/rafkaip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafkaip" height="22" width="30" /></a>
